@@ -92,7 +92,6 @@ class _DicePageState extends State<DicePage> {
                   child: Image.asset(
                 'images/dice$leftDiceNumber.png',
               )),
-              //Get students to create the second die as a challenge
               const SizedBox(
                 width: 20,
               ),
