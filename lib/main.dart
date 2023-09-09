@@ -111,8 +111,6 @@ class _DicePageState extends State<DicePage> {
                   context: context,
                   builder: (context) {
                     return AlertDialog(
-                      // Retrieve the text the that user has entered by using the
-                      // TextEditingController.
                       content: Text(fin,style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontFamily: 'martian mono',
@@ -141,12 +139,6 @@ class _DicePageState extends State<DicePage> {
               fontFamily: 'martian mono',
               fontSize: 15,
             )),
-        /*Text('Number of myController is $myController',
-            style: const TextStyle(
-              fontWeight: FontWeight.bold,
-              fontFamily: 'martian mono',
-              fontSize: 15,
-            )),*/
         const SizedBox(
           height: 10,
         ),
