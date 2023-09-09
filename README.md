@@ -18,5 +18,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![record_2](https://github.com/Balaji-spyder/guess-dice-score/assets/115569923/9ecfe010-a9d5-4896-9183-8c3495b3e47a)
-![record_1](https://github.com/Balaji-spyder/guess-dice-score/assets/115569923/55117bb4-4d3d-4c8c-9ebe-1f03379cc908)
+
+ ![record_1](https://github.com/Balaji-spyder/guess-dice-score/assets/115569923/55117bb4-4d3d-4c8c-9ebe-1f03379cc908)
