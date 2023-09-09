@@ -6,10 +6,7 @@ Flutter based Dice guess app
 
 This a basic flutter project, where number input is asked from the user when he/she onClicked the button Roll ,then random number is generated and according to the number the image is selected and if the number selected and output generated are equal then pop up shows that it's a correct guess with a correct guess sound otherwise it's show a wrong guess pop up.
 
-Flutter packages used in this project are 
-        -material ui
-        - audioplayers
-        - math
+Flutter packages used in this project are material , audioplayers and math
 
 ## Getting Started
 
